@@ -3,8 +3,9 @@ id: Cypress-Overview
 title: Overview
 ---
 
-###### Last Update: Monday 9th 2018
+###### Last Updated: 10/7/2018
 
+![Cypress-All-In-One-Solution](./assets/cypress-logo.png)
 ## Checklist
 
 - What is Cypress?
@@ -16,7 +17,7 @@ title: Overview
 - Any Caveats in using Cypress?
 
 ## Metadata
-__Age:__ Approximately 3 Years; [source](http://www.buzzfile.com/business/Cypress.io,-LLC-404-660-2421)
+__Age:__ Approximately 4 Years; (First Commit - June 4 2014)(https://www.youtube.com/watch?v=5XQOK0v_YRE)
 
 __Tool Type:__ Test Runner (All-In-One)
 

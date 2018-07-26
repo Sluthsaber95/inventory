@@ -1,10 +1,72 @@
 {
   "docs": {
-    "Docusaurus": ["doc1"],
-    "First Category": ["doc2"],
-    "Second Category": ["doc3"]
+    "Introduction": [
+      "doc1"
+    ],
+    "Babel": [
+      "Babel-what-you-need-know", 
+      "Babel-keep-up-date"
+    ],
+    "Cypress": [
+      "Cypress-Overview",
+      "Cypress-Best-Practices"
+    ],
+    "D3": [
+      "D3-Overview"
+    ],
+    "ECMAScript": [
+      "ECMAScript-ES9",
+      "ECMAScript-ES8",
+      "ECMAScript-ES7",
+      "ECMAScript-ES6",
+      "ECMAScript-ES5",
+      "EcmaScript-keep-up-to-date"
+    ],
+    "Jest": [],
+    "Node": [
+      "Node-Overview"
+    ],
+    "NPM": [
+      "NPM-what-you-need-know"
+    ],
+    "React": [
+      "React-Overview"
+    ],
+    "Redux": [
+      "Redux-Overview"
+    ],
+    "Sinon": [
+      "Sinon-Overview"
+    ],
+    "Storybook": [
+      "Storybook-what-you-need-know"
+    ],
+    "Webpack": [
+      "Webpack-4", 
+      "Webpack-3"
+    ],
+    "Yarn": [
+      "Yarn-Overview"
+    ],
+    "Maintenence": [
+      "Maintenance-Overview",
+      "Maintenance-Listing",
+      "To-Learn",
+      "To-Update",
+      "To-Correct"
+    ]
   },
-  "docs-other": {
-    "First Category": ["doc4", "doc5"]
+  "Developer Tooling": {
+    "Docker": [
+      "doc4"
+    ],
+    "GraphQL": [
+      "doc5"
+    ]
+  },
+  "Testing": {
+    "Unit Testing": [
+      "Unit-Testing-Optimisation"
+    ]
   }
 }
